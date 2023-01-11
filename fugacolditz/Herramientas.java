@@ -15,4 +15,6 @@ public class Herramientas {
         this.pos=pos;
         this.type=tipo;
     }
+
+
 }
